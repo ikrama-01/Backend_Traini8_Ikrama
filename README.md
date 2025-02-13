@@ -30,7 +30,7 @@ Create a new database in MySQL for the project:
 CREATE DATABASE traini8_db;
 ```
 
-Update the application.properties file to match your MySQL configuration.
+Update the application.properties file in src/main/resources to match your MySQL configuration.
 
 Replace YourPasssword with your SQL password and username with your SQL username if set or else root by default.
 ```bash
@@ -134,6 +134,6 @@ Example error message for missing centerName:
 }
 ```
 # Demo
-![Screenshot description](demo/post_request.png)
-![Screenshot description](demo/get_request.png)
-![Screenshot description](demo/post_request_with_errors.png)
+![Post request demo with successful response](demo/post_request.png)
+![Get request demo with successful response](demo/get_request.png)
+![Post request with errors (JSON fromat)](demo/post_request_with_errors.png)
