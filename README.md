@@ -134,6 +134,11 @@ Example error message for missing centerName:
 }
 ```
 # Demo
+Post request demo with successful response
 ![Post request demo with successful response](demo/post_request.png)
+
+Get request demo with successful response
 ![Get request demo with successful response](demo/get_request.png)
+
+Post request with errors (JSON fromat)
 ![Post request with errors (JSON fromat)](demo/post_request_with_errors.png)
