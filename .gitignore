@@ -13,10 +13,6 @@ target/
 *.war
 *.ear
 
-# MySQL credentials (do not push sensitive info)
-application.properties
-application.yml
-
 ### STS ###
 .apt_generated
 .classpath
